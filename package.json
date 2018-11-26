@@ -4,11 +4,13 @@
 	"private": false,
 	"author": "Daniel <dani@danielprimo.io>",
 	"license": "MIT",
-	"repository": "https://github.com/delineas/open-source-advent-calendar",
+	"repository": "https://github.com/webreactiva/calendario-adviento",
+	"homepage": "git@github.com:webreactiva/calendario-adviento",
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
-		"lint": "vue-cli-service lint"
+		"lint": "vue-cli-service lint",
+		"deploy": "node ./node_modules/vue-gh-pages/index.js"
 	},
 	"dependencies": {
 		"bulma": "^0.7.2",
@@ -24,6 +26,7 @@
 		"@vue/eslint-config-prettier": "^3.0.1",
 		"node-sass": "^4.9.0",
 		"sass-loader": "^7.0.1",
+		"vue-gh-pages": "^1.19.0",
 		"vue-template-compiler": "^2.5.17"
 	},
 	"eslintConfig": {
