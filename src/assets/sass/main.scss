@@ -1,0 +1,49 @@
+@import "~bulma/bulma";
+
+body {
+	width: 100%;
+}
+.navbar-burger {
+	color: #fff;
+}
+
+#app {
+	margin: 0;
+	width: 100vw;
+	max-width: 100vw;
+}
+
+.outsideOfMonth > .cv-day-number {
+	visibility: hidden;
+}
+.calendar-parent {
+    width: 100vw;
+    height: 60vh;
+}
+.future {
+	background: #ccc;
+}
+
+.d2018-12-01 {
+	background: #209cee;
+}
+
+.cv-event {
+	border-color: transparent !important;
+	background-color: #fff !important;
+	color: #000;
+	cursor: pointer;
+}
+
+.cv-event:hover {
+	background-color: #ff365d !important;
+	color: #fff;
+}
+.cv-day {
+	text-align: center;
+}
+.cv-day-number {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
