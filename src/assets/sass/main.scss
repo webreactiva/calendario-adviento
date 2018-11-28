@@ -35,7 +35,7 @@ body {
 	cursor: pointer;
 	width: auto !important;
 	border-radius: 20% !important;
-	padding: 10px;
+	padding: 10px !important;
 	border: 1px solid #545454 !important;
 }
 
@@ -57,29 +57,29 @@ body {
 }
 
 .cv-event.offset0 {
-	left: calc((50% / 7) - 1em);
+	left: calc((50% / 7) - 1em) !important;
 }
 
 .cv-event.offset1 {
-	left: calc((150% / 7) - 1em);
+	left: calc((150% / 7) - 1em) !important;
 }
 
 .cv-event.offset2 {
-	left: calc((250% / 7) - 1em);
+	left: calc((250% / 7) - 1em) !important;
 }
 
 .cv-event.offset3 {
-	left: calc((350% / 7) - 1em);
+	left: calc((350% / 7) - 1em) !important;
 }
 
 .cv-event.offset4 {
-	left: calc((450% / 7) - 1em);
+	left: calc((450% / 7) - 1em) !important;
 }
 
 .cv-event.offset5 {
-	left: calc((550% / 7) - 1em);
+	left: calc((550% / 7) - 1em) !important;
 }
 
 .cv-event.offset6 {
-	left: calc((650% / 7) - 1em);
+	left: calc((650% / 7) - 1em) !important;
 }
