@@ -2,6 +2,7 @@
 
 body {
 	width: 100%;
+	font-family: "Roboto", sans-serif;
 }
 .navbar-burger {
 	color: #fff;
@@ -17,22 +18,29 @@ body {
 	visibility: hidden;
 }
 .calendar-parent {
-    width: 100vw;
-    height: 60vh;
+	width: 100vw;
+	height: 60vh;
 }
 .future {
-	background: #ccc;
+	background: #eee;
 }
 
 .d2018-12-01 {
-	background: #209cee;
+	background: #82b8db;
 }
 
 .cv-event {
-	border-color: transparent !important;
 	background-color: #fff !important;
 	color: #000;
 	cursor: pointer;
+	width: auto !important;
+	border-radius: 20% !important;
+	padding: 10px;
+	border: 1px solid #545454 !important;
+}
+
+.cv-day-number {
+	display: none;
 }
 
 .cv-event:hover {
@@ -46,4 +54,32 @@ body {
 	position: relative;
 	left: 50%;
 	transform: translateX(-50%);
+}
+
+.cv-event.offset0 {
+	left: calc((50% / 7) - 1em);
+}
+
+.cv-event.offset1 {
+	left: calc((150% / 7) - 1em);
+}
+
+.cv-event.offset2 {
+	left: calc((250% / 7) - 1em);
+}
+
+.cv-event.offset3 {
+	left: calc((350% / 7) - 1em);
+}
+
+.cv-event.offset4 {
+	left: calc((450% / 7) - 1em);
+}
+
+.cv-event.offset5 {
+	left: calc((550% / 7) - 1em);
+}
+
+.cv-event.offset6 {
+	left: calc((650% / 7) - 1em);
 }

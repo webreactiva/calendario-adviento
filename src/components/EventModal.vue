@@ -5,7 +5,7 @@
 		</header>
 		<div class="card-content">
 			<div class="content">
-				<h3>{{event.originalEvent.title}}</h3>
+				<h3>{{event.originalEvent.meta_title}}</h3>
 				<p class="subtitle">
 					<span v-html="event.originalEvent.description"></span>
 				</p>
@@ -35,7 +35,7 @@
 				<span>Cerrar</span>
 			</a>
 			<a
-				:href="'https://twitter.com/intent/tweet?text=Descubriendo '+event.originalEvent.title+' desde el Calendario de Adviento de @webreactiva '+ event.site_url +''"
+				:href="'https://twitter.com/intent/tweet?text=Descubriendo '+event.originalEvent.meta_title+' desde el Calendario de Adviento de @webreactiva '+ event.site_url +''"
 				class="card-footer-item" target="_blank"
 			>
 				<i class="fas fa-share-alt"></i>&nbsp;

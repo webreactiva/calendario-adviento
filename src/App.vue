@@ -60,15 +60,28 @@ export default {
 			useHolidayTheme: false,
 			events: [
 				{
-					id: "e0",
+					id: "e1",
 					startDate: "2018-12-01",
-					title: "Este es el primer día del calendario",
+					title: "1",
+					meta_title: "Este es el primer día del calendario",
 					description:
 						"Así se mostrará el primero a partir del 1 de Diciembre de 2018. <br/> ¡Animate a participar! <a href='https://goo.gl/forms/4PcuSltEgihTkKxp1'>¡Aún hay huecos libres!</a>",
-					tags: "Los mejores recursos de 2018",
+					tags: "#softwarelibre, #opensource",
 					link: "https://goo.gl/forms/4PcuSltEgihTkKxp1",
 					author: "Cuaquiera de vosotr@s 😉",
-					author_link: "https://www.danielprimo.io/podcast",
+					author_link: "https://goo.gl/forms/4PcuSltEgihTkKxp1",
+				},
+				{
+					id: "e12",
+					startDate: "2018-12-12",
+					title: "12",
+					meta_title: "¡Hola!",
+					description:
+						"Este es un día cualquiera triste y solo al que le falta un recurso :) <br/> ¡Animate a participar! <a href='https://goo.gl/forms/4PcuSltEgihTkKxp1'>¡Este día puede salir tu recurso!</a>",
+					tags: "#softwarelibre, #opensource",
+					link: "https://goo.gl/forms/4PcuSltEgihTkKxp1",
+					author: "Cuaquiera de vosotr@s 😉",
+					author_link: "https://goo.gl/forms/4PcuSltEgihTkKxp1",
 				},
 			],
 		}
