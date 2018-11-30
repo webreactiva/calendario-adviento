@@ -46,7 +46,7 @@ export default {
 	mixins: [CalendarMathMixin],
 	data() {
 		return {
-			siteUrl: "https://www.webreactiva.com",
+			siteUrl: "https://calendario.webreactiva.com",
 			showDate: this.thisMonth(1),
 			message: "",
 			startingDayOfWeek: 1,
