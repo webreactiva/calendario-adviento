@@ -5,9 +5,20 @@
 		"title": "1",
 		"meta_title": "Odoo",
 		"description": "Es un ERP muy completo a lo que a funcionalidad se refiere y está hecho con un framework muy sólido, facilísimo de extender y con un gran rendimiento.",
-		"tags": "#python",
+		"tags": "Python",
 		"link": "https://github.com/odoo",
 		"author": "Fernando La Chica",
 		"author_link": "https://twitter.com/FernandoLaChica"
+	},
+	{
+		"id": "e2",
+		"startDate": "2018-12-02",
+		"title": "2",
+		"meta_title": "Bitwarden",
+		"description": "Un excelente gestor de contraseñas. Genial alternativa a los conocidos LastPass, 1Password o Dashlane. Podemos usar sus servidores o un servidor propio. Funciona en todas las plataformas imaginables y se puede incluso usar mediante línea de comandos. Plan gratuito disponible.",
+		"tags": "C#, Typescript, HTML",
+		"link": "https://github.com/bitwarden",
+		"author": "Antonio Martín",
+		"author_link": "https://twitter.com/nerjamartin"
 	}
 ]
