@@ -20,5 +20,16 @@
 		"link": "https://github.com/bitwarden",
 		"author": "Antonio Martín",
 		"author_link": "https://twitter.com/nerjamartin"
+	},
+	{
+		"id": "e3",
+		"startDate": "2018-12-03",
+		"title": "3",
+		"meta_title": "Kotlin",
+		"description": "Kotlin ha cambiado para mejor todo el desarrollo de mis aplicaciones tanto Android cómo las enfocadas a JVM.",
+		"tags": "Kotlin",
+		"link": "https://github.com/JetBrains/kotlin",
+		"author": "Borja",
+		"author_link": "https://twitter.com/niltsiar"
 	}
 ]
