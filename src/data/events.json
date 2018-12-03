@@ -31,5 +31,16 @@
 		"link": "https://github.com/JetBrains/kotlin",
 		"author": "Borja",
 		"author_link": "https://twitter.com/niltsiar"
+	},
+	{
+		"id": "e4",
+		"startDate": "2018-12-04",
+		"title": "4",
+		"meta_title": "asciinema",
+		"description": "Se trata de un sistema para grabar un 'video' con una sesión de terminal. Lo he visto usar en charlas a las que asisto que necesitan hacer una demo de terminal: tiene pause, se puede embeber en webs, y se puede copiar y pegar.",
+		"tags": "Python",
+		"link": "https://github.com/asciinema/asciinema",
+		"author": "Xurxo Fresco",
+		"author_link": "https://twitter.com/xurxof"
 	}
 ]
