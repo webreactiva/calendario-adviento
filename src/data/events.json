@@ -42,5 +42,16 @@
 		"link": "https://github.com/asciinema/asciinema",
 		"author": "Xurxo Fresco",
 		"author_link": "https://twitter.com/xurxof"
+	},
+	{
+		"id": "e5",
+		"startDate": "2018-12-05",
+		"title": "5",
+		"meta_title": "HeidiSQL",
+		"description": "Editor visual y rápido para bases de datos MySQL, MariaDB, Microsoft SQL y PostgreSQL.",
+		"tags": "Delphi",
+		"link": "https://github.com/HeidiSQL/HeidiSQL",
+		"author": "Aunitz Giménez",
+		"author_link": "https://www.aunitz.net/"
 	}
 ]
