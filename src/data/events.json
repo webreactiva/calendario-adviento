@@ -53,5 +53,27 @@
 		"link": "https://github.com/HeidiSQL/HeidiSQL",
 		"author": "Aunitz Giménez",
 		"author_link": "https://www.aunitz.net/"
+	},
+	{
+		"id": "e6",
+		"startDate": "2018-12-06",
+		"title": "6",
+		"meta_title": "Audacity",
+		"description": "No soy ningún experto en edición de audio, pero siempre que he necesitado hacer alguna cosa, con esta aplicación lo he resuelto de manera rápida y sencilla.",
+		"tags": "C++",
+		"link": "https://github.com/audacity/audacity",
+		"author": "Aunitz Giménez",
+		"author_link": "https://www.aunitz.net/"
+	},
+	{
+		"id": "e7",
+		"startDate": "2018-12-07",
+		"title": "7",
+		"meta_title": "FileZilla",
+		"description": "Cliente FTP sencillo, rápido y ligero. Desde que lo descubrí, no he usado otro.",
+		"tags": "C++",
+		"link": "https://filezilla-project.org",
+		"author": "Aunitz Giménez",
+		"author_link": "https://www.aunitz.net/"
 	}
 ]
