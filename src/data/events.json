@@ -75,5 +75,50 @@
 		"link": "https://filezilla-project.org",
 		"author": "Aunitz Giménez",
 		"author_link": "https://www.aunitz.net/"
-	}
+	},
+	{
+		"id": "e8",
+		"startDate": "2018-12-08",
+		"title": "8",
+		"meta_title": "Bash-it",
+		"description": "Es una gran ayuda para productividad en linea de comandos. no es muy conocida. Si te habituas, no podras vivir sin ella.",
+		"tags": "bash",
+		"link": "https://github.com/Bash-it/bash-it",
+		"author": "Seomago",
+		"author_link": "https://twitter.com/seomago"
+	},
+	{
+		"id": "e9",
+		"startDate": "2018-12-09",
+		"title": "9",
+		"meta_title": "Jupyter Notebook",
+		"description": "Jupyter Notebook es una herramienta que permite intercalar código, el resultado de la ejecución y texto explicativo. Su uso ha sido impulsado por el auge de Data Sciente. Lo utilizo para anotar código y compartirlo.",
+		"tags": "Python, JavaScript",
+		"link": "https://github.com/jupyter/notebook",
+		"author": "Franco Cedillo",
+		"author_link": "https://twitter.com/paracuerdas"
+	},
+	{
+		"id": "e10",
+		"startDate": "2018-12-10",
+		"title": "10",
+		"meta_title": "Org-Mode",
+		"description": "Me está permitiendo organizar gran cantidad de documentación.",
+		"tags": "Lisp",
+		"link": "https://orgmode.org/",
+		"author": "Ángel",
+		"author_link": "https://aberlanas.github.io/"
+	},
+	{
+		"id": "e11",
+		"startDate": "2018-12-11",
+		"title": "11",
+		"meta_title": "MutMut",
+		"description": "Una librería para testing muy interesante, permite generar pruebas de testing de mutación, un tipo de prueba que desconocia y son muy interesantes.",
+		"tags": "Python",
+		"link": "https://github.com/boxed/mutmut",
+		"author": "Jose Jimenez",
+		"author_link": "https://twitter.com/rooteandoblog"
+	}				
+
 ]
