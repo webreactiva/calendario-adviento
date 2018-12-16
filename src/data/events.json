@@ -119,6 +119,72 @@
 		"link": "https://github.com/boxed/mutmut",
 		"author": "Jose Jimenez",
 		"author_link": "https://twitter.com/rooteandoblog"
-	}				
+	},
+	{
+		"id": "e12",
+		"startDate": "2018-12-12",
+		"title": "12",
+		"meta_title": "Autokey",
+		"description": "Lo recomiendo porque me es muy útil en mi día a día. Escribiendo pequeñas abreviaturas puedo expandirlas y así ahorrar mucho tiempo. Es una especie de Text Expander, pero libre y gratuito.",
+		"tags": "Python",
+		"link": "https://github.com/autokey/autokey",
+		"author": "Joseda",
+		"author_link": "https://twitter.com/josedabm"
+	},
+	{
+		"id": "e13",
+		"startDate": "2018-12-13",
+		"title": "13",
+		"meta_title": "EasyEngine",
+		"description": "Muy facil para desplegar entornos de desarrollo de Wordpress en un VPS. (Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt)",
+		"tags": "Bash, PHP",
+		"link": "https://github.com/EasyEngine/easyengine",
+		"author": "Juan Carlos",
+		"author_link": "https://twitter.com/jcbeal"
+	},
+	{
+		"id": "e14",
+		"startDate": "2018-12-14",
+		"title": "14",
+		"meta_title": "Daily Dose of Drupal",
+		"description": "Dosis diaria de Drupal 7 y 8 a través de videos. Se aprende el uso de muchos módulos y temas de desarrollo de webs Drupal.",
+		"tags": "Drupal, PHP",
+		"link": "http://codekarate.com/codekarate-posts/type/daily_dose_of_drupal",
+		"author": "Alberto",
+		"author_link": ""
+	},
+	{
+		"id": "e15",
+		"startDate": "2018-12-15",
+		"title": "15",
+		"meta_title": "JsonDB",
+		"description": "Es una clase de PHP para manejar archivos JSON como si fuera una base de datos. Me resulta muy útil para crear API rápidamente y no tener que usar una base de datos.",
+		"tags": "PHP",
+		"link": "https://github.com/strzlee/JsonDB.class.php",
+		"author": "Salvador",
+		"author_link": "https://github.com/salvacam"
+	},
+	{
+		"id": "e16",
+		"startDate": "2018-12-16",
+		"title": "16",
+		"meta_title": "Cypress",
+		"description": "Ahora testear aplicaciones es divertido. Me fue muy útil para tests e2e.",
+		"tags": "Javascript",
+		"link": "https://www.cypress.io/",
+		"author": "Rubén",
+		"author_link": ""
+	},
+	{
+		"id": "e17",
+		"startDate": "2018-12-17",
+		"title": "17",
+		"meta_title": "Crystal",
+		"description": "Porque es como Ruby, pero renovado.",
+		"tags": "",
+		"link": "https://github.com/crystal-lang/crystal",
+		"author": "Alberto Corbi",
+		"author_link": "https://twitter.com/albertcorbi"
+	}
 
 ]
