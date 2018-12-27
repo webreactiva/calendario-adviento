@@ -185,6 +185,117 @@
 		"link": "https://github.com/crystal-lang/crystal",
 		"author": "Alberto Corbi",
 		"author_link": "https://twitter.com/albertcorbi"
+	},
+	{
+		"id": "e18",
+		"startDate": "2018-12-18",
+		"title": "18",
+		"meta_title": "GDevelop",
+		"description": "Software para crear juegos en 2D de manera sencilla que se pueden exportar como aplicación (Android o iOS) o web. Es útil para aprender la lógica de un lenguaje de programación.",
+		"tags": "Html5, Javascript",
+		"link": "https://github.com/4ian/GDevelop",
+		"author": "Dani",
+		"author_link": "https://twitter.com/dapaspei"
+	},
+	{
+		"id": "e19",
+		"startDate": "2018-12-19",
+		"title": "19",
+		"meta_title": "web.dev",
+		"description": "Nueva plataforma de Google presentada en el chrome dev summit 2018. Tiene un gran cantidad de información sobre las nuevas tendencias de PWA, formatos de imágenes e integra los dos tester de Google Lighthouse y PageSpeed para probar cualquier url. Muy recomendable.",
+		"tags": "Web, Performance, Accesibilidad, JS, HTML, Testing, PWA",
+		"link": "https://web.dev/",
+		"author": "Pedro Palazón Martínez de Alegría",
+		"author_link": "https://twitter.com/pedro_pmda"
+	},
+	{
+		"id": "e20",
+		"startDate": "2018-12-20",
+		"title": "20",
+		"meta_title": "PID Cat",
+		"description": "Lo uso para mostrar las trazas de un móvil Android de una forma más agradable a la que se muestra con el comando adb o en los IDEs de Android. Además, permite filtrar para que solo muestre los logs de una app en concreto. ",
+		"tags": "Python",
+		"link": "https://github.com/JakeWharton/pidcat",
+		"author": "Ivan Rubio",
+		"author_link": "https://twitter.com/ivan_rubio"
+	},
+	{
+		"id": "e21",
+		"startDate": "2018-12-21",
+		"title": "21",
+		"meta_title": "Markdown Tables",
+		"description": "Markdown a cascoporro. Si.",
+		"tags": "Markdown",
+		"link": "https://www.tablesgenerator.com/markdown_tables",
+		"author": "Seomago",
+		"author_link": "https://twitter.com/seomago"
+	},
+	{
+		"id": "e22",
+		"startDate": "2018-12-22",
+		"title": "22",
+		"meta_title": "Awesome Sysadmin",
+		"description": "Listado de herramientas para sysadmin para tener siempre a mano.",
+		"tags": "Sysadmin",
+		"link": "https://github.com/n1trux/awesome-sysadmin",
+		"author": "Seomago",
+		"author_link": "https://twitter.com/seomago"
+	},
+	{
+		"id": "e23",
+		"startDate": "2018-12-23",
+		"title": "23",
+		"meta_title": "Akeeba Solo",
+		"description": "Es una navaja suiza para copias de seguridad. Es capaz de hacer copias de seguridad de cualquier aplicación web en PHP y MySQL, SQL Server, PostgreSQL y además facilita la restauración sencilla de estas copias de seguridad con soporte específico para sitios Joomla, WordPress...",
+		"tags": "PHP",
+		"link": "https://www.akeebabackup.com/products/akeeba-solo.html",
+		"author": "Carlos Cámara",
+		"author_link": "https://mastermindjoomla.com"
+	},
+	{
+		"id": "e24",
+		"startDate": "2018-12-24",
+		"title": "24",
+		"meta_title": "Invoice Ninja",
+		"description": "Es un gestor de facturas súper vitaminado que te permite además crear presupuestos, propuestas, gestionar clientes... ¡Indispensable!",
+		"tags": "PHP",
+		"link": "https://github.com/invoiceninja/invoiceninja",
+		"author": "Carlos Cámara",
+		"author_link": "https://mastermindjoomla.com"
+	},
+	{
+		"id": "e25",
+		"startDate": "2018-12-25",
+		"title": "25",
+		"meta_title": "Weblate",
+		"description": "Herramienta para gestionar las traducciones de tus desarrollos, fácil de integrar y con una interfaz simple y fácil de utilizar.",
+		"tags": "Python",
+		"link": "https://github.com/WeblateOrg/weblate",
+		"author": "Jose Jimenez",
+		"author_link": "https://twitter.com/rooteandoblog"
+	},
+	{
+		"id": "e26",
+		"startDate": "2018-12-26",
+		"title": "26",
+		"meta_title": "Populus",
+		"description": "Framework para el desarrollo de Smart Contract utilizando la tecnología de Blockchain de Ehtereum.",
+		"tags": "Python",
+		"link": "https://github.com/pipermerriam/populus",
+		"author": "Jose Jimenez",
+		"author_link": "https://twitter.com/rooteandoblog"
+	},
+	{
+		"id": "e27",
+		"startDate": "2018-12-27",
+		"title": "27",
+		"meta_title": "Populus",
+		"description": "Consola para windows que permite extiende la funcionalidad de la consola normal añadiendo comandos de linux, colores, etc.. Su mayor ventaja, es que si estás trabajando con un sistema de control de versiones como GIT o SVN te muestra la rama en la que estás trabajando en el path.",
+		"tags": "Windows, Terminal",
+		"link": "http://cmder.net/",
+		"author": "César",
+		"author_link": "https://twitter.com/cesgarbar"
 	}
 
+	
 ]
